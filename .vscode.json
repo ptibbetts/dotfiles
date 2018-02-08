@@ -23,5 +23,5 @@
   },
   "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
-  "vetur.validation.template": false,
+  "vetur.validation.template": false
 }
