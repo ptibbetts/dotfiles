@@ -13,6 +13,4 @@ These are the dotfiles I use for [Vim](http://www.vim.org/),
 as well as a global config file for [ESLint](https://eslint.org/).
 
 There's no installation script, that's done by 
-[my macOS Ansible script](https://github.com/ptibbetts/macOS) 
-which installs [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) 
-(so that the .zshrc file will actually work) as well as any Vim plugins.
+[my macOS Ansible script](https://github.com/ptibbetts/macOS).
